@@ -9,7 +9,9 @@
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=python,js,ts,nodejs,nestjs,react,mysql,git,github,vscode"/>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,js,ts,nodejs,nestjs,react,mysql,git,github,vscode&perline=10" />
+</p>
 
 </p>
 
@@ -26,16 +28,11 @@
 <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge">
 
 </p>
-## 📚 Atualmente estudando
+📚 Atualmente estudando
 
-🐍 Python para Dados
-
-📊 Power BI
-
-🗄 SQL
-
-🤖 Inteligência Artificial Generativa
-
-🔄 n8n
-
-🇺🇸 Inglês
+- 🐍 Python para Dados
+- 📊 Power BI
+- 🗄️ SQL
+- 🤖 Inteligência Artificial Generativa
+- 🔄 n8n
+- 🇺🇸 Inglês
